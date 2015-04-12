@@ -1,4 +1,4 @@
 100-lines-adv
 =============
 
-visual novel game engine written only 100 lines Javascript code
+Visual novel engine written with Javascript in 100 lines.
